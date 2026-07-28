@@ -2,7 +2,7 @@
 
 liachloe
 
-## Font recreator:
+## Font creator:
 
 liachloe
 
