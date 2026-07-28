@@ -3,3 +3,6 @@
 > [Click here to view credits](./CREDITS.md)
 
 Some characters seem to have some errors in real life, most notably the closing bracket ')', which is one pixel below the normal baseline. This font aims to be accurate to real life, so these errors are incorporated into the font.
+
+This font was created on fontstruct.com:
+[https://fontstruct.com/fontstructions/show/2917726/4020-classic](https://fontstruct.com/fontstructions/show/2917726/4020-classic)
