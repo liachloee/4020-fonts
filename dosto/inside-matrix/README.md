@@ -23,7 +23,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - J
 - K
 - L
-- M
++ M
 - N
 - O
 - P
