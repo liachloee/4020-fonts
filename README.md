@@ -6,9 +6,9 @@ This font pack replicates the font of various displays on trains operated by the
 
 ## List of fonts in the repository:
 
-- *ÖBB class 4020 outside destination displays* (mostly fully recreated; some uncommon letters are missing. There is a smaller version for longer destination names, but only the normal full-size font is included in the repository)
+- **ÖBB class 4020 outside destination displays** (mostly fully recreated; some uncommon letters are missing. There is a smaller version for longer destination names, but only the normal full-size font is included in the repository)
 
-- *ÖBB regional-train doubledecker (DoSto) inside matrix displays* (work in progress; some modernized carriages feature infotainment displays instead of the matrix ones, the fonts on these aren't included)
+- **ÖBB regional-train doubledecker (DoSto) inside matrix displays** (work in progress; some modernized carriages feature infotainment displays instead of the matrix ones, the fonts on these aren't included)
 
 Some letters may have some pixel errors in real life, which will be replicated 1 to 1 with these fonts.
 
