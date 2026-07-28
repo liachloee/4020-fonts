@@ -10,7 +10,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 
 ```
 - A
-- B
++ B
 - C
 - D
 - E
@@ -36,7 +36,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - Y
 - Z
 
-- a
++ a
 - b
 - c
 - d
