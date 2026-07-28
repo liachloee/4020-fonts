@@ -49,7 +49,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - i
 - j
 - k
-- l
++ l
 - m
 + n
 - o
