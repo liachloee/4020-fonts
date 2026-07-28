@@ -7,7 +7,7 @@ Some characters seem to have some errors in real life, most notably the closing 
 This font was created on fontstruct.com:
 [https://fontstruct.com/fontstructions/show/2917726/4020-classic](https://fontstruct.com/fontstructions/show/2917726/4020-classic)
 
-Character checklist:
+## Character checklist:
 
 ('+' = added, '-' = todo)
 
