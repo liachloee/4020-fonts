@@ -44,7 +44,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 + d
 + e
 - f
-- g
++ g
 - h
 + i
 - j
