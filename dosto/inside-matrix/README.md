@@ -33,7 +33,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - T
 - U
 - V
-- W
++ W
 - X
 - Y
 - Z
