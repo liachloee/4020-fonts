@@ -1,12 +1,12 @@
-Project Maintainer:
+## Project Maintainer:
 
 liachloe
 
-Font recreator:
+## Font recreator:
 
 liachloe
 
-Thanks to these people for providing pictures of the real life destination displays:
+## Thanks to these people for providing pictures of the real life destination displays:
 
 [BlauerBlitz4020](https://youtube.com/@OepnvBlauerblitz4020-pj1br)
 
