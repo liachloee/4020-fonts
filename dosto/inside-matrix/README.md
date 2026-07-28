@@ -46,7 +46,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - f
 - g
 - h
-- i
++ i
 - j
 - k
 + l
@@ -90,3 +90,4 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - )
 - /
 ```
+
