@@ -11,6 +11,8 @@ Character checklist:
 
 ('+' = added, '-' = todo)
 
+```
+
 + A
 + B
 - C
@@ -92,3 +94,4 @@ Character checklist:
 + (	
 + )
 + /
+```
