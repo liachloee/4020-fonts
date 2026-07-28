@@ -2,6 +2,8 @@
 
 > [Click here to view credits](./CREDITS.md)
 
+There are two variations of this font; one is slimmer for longer text. Right now, only the normal size is implemented.
+
 This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/show/2919881/dosto-classic](https://fontstruct.com/fontstructions/show/2919881/dosto-classic)
 
 ## Character Checklist:
