@@ -73,7 +73,8 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 + ö
 - ü
 - ß
-- 0
+
++ 0
 - 1
 - 2
 - 3
