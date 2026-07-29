@@ -20,7 +20,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - G
 + H
 - I
-- J
++ J
 - K
 + L
 + M
