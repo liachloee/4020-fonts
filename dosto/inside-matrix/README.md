@@ -30,7 +30,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - Q
 - R
 + S
-- T
++ T
 - U
 + V
 + W
