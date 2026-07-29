@@ -14,7 +14,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 + A
 + B
 + C
-- D
++ D
 - E
 - F
 - G
