@@ -32,7 +32,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - S
 - T
 - U
-- V
++ V
 + W
 - X
 - Y
