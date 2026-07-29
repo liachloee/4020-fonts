@@ -40,7 +40,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 
 + a
 + b
-- c
++ c
 + d
 + e
 + f
