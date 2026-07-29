@@ -53,7 +53,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - m
 + n
 + o
-- p
++ p
 - q
 + r
 + s
