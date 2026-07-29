@@ -75,7 +75,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - ß
 
 + 0
-- 1
++ 1
 + 2
 - 3
 - 4
