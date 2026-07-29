@@ -57,7 +57,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - q
 + r
 + s
-- t
++ t
 - u
 - v
 - w
