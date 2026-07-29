@@ -11,7 +11,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 ('+' = added, '-' = todo)
 
 ```
-- A
++ A
 + B
 + C
 - D
