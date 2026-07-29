@@ -79,7 +79,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 + 2
 + 3
 + 4
-- 5
++ 5
 + 6
 + 7
 + 8
