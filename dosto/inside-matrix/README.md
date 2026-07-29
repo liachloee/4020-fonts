@@ -86,6 +86,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 + 9
 
 - .
++ :
 - -
 - (	
 - )
