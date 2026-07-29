@@ -18,7 +18,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - E
 - F
 - G
-- H
++ H
 - I
 - J
 - K
