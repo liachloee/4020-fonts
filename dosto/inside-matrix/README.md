@@ -63,7 +63,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - w
 - x
 - y
-- z
++ z
 
 - Ä
 - Ö
