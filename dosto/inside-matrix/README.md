@@ -43,7 +43,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - c
 + d
 + e
-- f
++ f
 + g
 - h
 + i
