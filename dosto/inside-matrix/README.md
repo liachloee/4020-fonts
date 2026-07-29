@@ -83,7 +83,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 + 6
 + 7
 + 8
-- 9
++ 9
 
 - .
 - -
