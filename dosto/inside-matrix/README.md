@@ -52,7 +52,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 + l
 - m
 + n
-- o
++ o
 - p
 - q
 - r
