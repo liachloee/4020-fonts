@@ -80,7 +80,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - 3
 - 4
 - 5
-- 6
++ 6
 - 7
 + 8
 - 9
