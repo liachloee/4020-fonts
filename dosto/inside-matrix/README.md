@@ -69,7 +69,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - Ö
 - Ü
 
-- ä
++ ä
 + ö
 - ü
 - ß
