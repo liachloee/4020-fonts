@@ -39,7 +39,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - Z
 
 + a
-- b
++ b
 - c
 + d
 + e
