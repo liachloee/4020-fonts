@@ -81,7 +81,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - 4
 - 5
 + 6
-- 7
++ 7
 + 8
 - 9
 
