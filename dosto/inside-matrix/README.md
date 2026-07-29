@@ -82,7 +82,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - 5
 - 6
 - 7
-- 8
++ 8
 - 9
 
 - .
