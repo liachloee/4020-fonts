@@ -22,7 +22,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - I
 - J
 - K
-- L
++ L
 + M
 - N
 - O
