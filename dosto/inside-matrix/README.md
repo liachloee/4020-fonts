@@ -26,7 +26,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 + M
 + N
 - O
-- P
++ P
 - Q
 - R
 + S
