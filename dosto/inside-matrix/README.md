@@ -50,7 +50,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - j
 + k
 + l
-- m
++ m
 + n
 + o
 + p
