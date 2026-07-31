@@ -24,7 +24,7 @@ This font was created on fontstruct.com: [https://fontstruct.com/fontstructions/
 - K
 + L
 + M
-- N
++ N
 - O
 - P
 - Q
