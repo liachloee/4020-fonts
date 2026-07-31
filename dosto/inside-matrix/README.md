@@ -4,7 +4,13 @@
 
 There are two variations of this font; one is slimmer for longer text.
 
-This font was created on fontstruct.com: 
+## Character Checklists
+
+[Classic](./checklist-classic.md)
+[Slim](./checklist-slim.md)
+
+**This font was created on fontstruct.com: **
 
 Classic: [https://fontstruct.com/fontstructions/show/2921266/dosto-slim](https://fontstruct.com/fontstructions/show/2921266/dosto-slim)
+
 Slim: [https://fontstruct.com/fontstructions/show/2919881/dosto-classic](https://fontstruct.com/fontstructions/show/2919881/dosto-classic)
