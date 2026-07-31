@@ -7,9 +7,10 @@ There are two variations of this font; one is slimmer for longer text.
 ## Character Checklists
 
 [Classic](./checklist-classic.md)
+
 [Slim](./checklist-slim.md)
 
-**This font was created on fontstruct.com: **
+**This font was created on fontstruct.com:**
 
 Classic: [https://fontstruct.com/fontstructions/show/2921266/dosto-slim](https://fontstruct.com/fontstructions/show/2921266/dosto-slim)
 
