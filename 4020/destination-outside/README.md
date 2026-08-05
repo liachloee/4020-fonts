@@ -63,7 +63,7 @@ This font was created on fontstruct.com:
 + u
 + v
 + w
-- x
++ x
 + y
 + z
  
