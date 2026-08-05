@@ -27,7 +27,7 @@ This font was created on fontstruct.com:
 + L
 + M
 + N
-- O
++ O
 + P
 - Q
 + R
