@@ -15,7 +15,7 @@ This font was created on fontstruct.com:
 
 + A
 + B
-- C
++ C
 + D
 + E
 + F
